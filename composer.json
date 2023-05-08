@@ -1,0 +1,13 @@
+{
+  "name": "foo/admin",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin foo/admin",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Foo\\Admin\\": "src"
+    }
+  }
+}
